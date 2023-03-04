@@ -2,4 +2,5 @@
 Them file thu 2 
 Sưa file thu 2
 may tinh 2 (Noi dung may tinh 2)
+Sua file thu 2 may 2 xet loi comflit
 
