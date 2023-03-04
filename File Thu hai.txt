@@ -1,4 +1,5 @@
 (file thu 1)
 Them file thu 2 
 Sưa file thu 2
-May tinh 1 
+may tinh 2 (Noi dung may tinh 2)
+
