@@ -1,9 +1,0 @@
-(file thu 1)
-Them file thu 2 
-Sưa file thu 2
-may tinh 2 (Noi dung may tinh 2)
-sua file thu 2 may 1 xet loi comflit
-Noi dung ngay hoc git gui
-
-
-
