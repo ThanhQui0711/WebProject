@@ -1,3 +1,7 @@
 Them file thu 2 ngay chu nhat
 Sua file 2 nhan vien C
+<<<<<<< HEAD
 Sua file thu 2 Nhanh Nhan Vien C
+=======
+Thay doi file nhanh Main 
+>>>>>>> main
