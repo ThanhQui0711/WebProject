@@ -1,3 +1,8 @@
 Them file 3 nhan vien C
+<<<<<<< HEAD
 Sua file4 Nhan Vien C xet Conflict
 Sua file4 Nhan Vien C xet Conflict 2
+=======
+Sua file4 Main xet Conflict 
+Sua file4 Main xet Conflict 2
+>>>>>>> main
