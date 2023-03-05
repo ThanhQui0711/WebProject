@@ -1,0 +1,12 @@
+diff a/File Thu Tu.txt b/File Thu Tu.txt	(rejected hunks)
+@@ -1,3 +1,8 @@
+ Them file 3 nhan vien C
++<<<<<<< HEAD
+ Sua file4 Nhan Vien C xet Conflict
+-Sua file4 Nhan Vien C xet Conflict 2
+\ No newline at end of file
++Sua file4 Nhan Vien C xet Conflict 2
++=======
++Sua file4 Main xet Conflict 
++Sua file4 Main xet Conflict 2
++>>>>>>> main
